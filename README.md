@@ -6,7 +6,6 @@ A simple Java-based banking management system built using core OOP concepts.
 
 - **Encapsulation** – Account fields (`balance`, `accountNumber`, etc.) are private and accessed via getters.
 - **Abstraction** – Banking logic is hidden inside `Account` and `Bank` classes; `Main` just handles user input.
-- **Inheritance** – Can be extended in the future (e.g. SavingsAccount, LoanAccount).
 
 ## Project Structure
 
